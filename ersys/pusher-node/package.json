@@ -1,0 +1,24 @@
+{
+   "author": "IBM",
+   "dependencies": 
+   {
+       "express": "4.x",
+      "body-parser":"*",
+      "ibmdata": "latest",
+      "ibmpush": "latest",
+      "ibmbluemix" : "latest",
+      "ibmsecurity" : "latest"
+	 },
+  
+"engines": 
+	{
+		"node": "1.8.x"
+	},
+"repository" : 
+	{
+	},
+ 
+"description": "Script for sending push notification to users",
+"license": "IBM",
+"main": "push_value.js"  
+}

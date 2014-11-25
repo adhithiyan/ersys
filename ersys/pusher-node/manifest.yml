@@ -1,0 +1,8 @@
+  host: pusher
+  disk: 1024M
+  name: pusher
+  command: node push_value.js
+  path: .
+  domain: mybluemix.net
+  memory: 128M
+  instances: 1
